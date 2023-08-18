@@ -8,6 +8,6 @@ resultant string and print it.
 3. Use the if statement conditions to write a program to print the letter grade based on an input class score. Use the
 grading scheme we are using in this class.
 
-Attaching the video link for the explanation given
+Attaching the video link for the explanation of the above programs.
 https://drive.google.com/file/d/1WksorbtUfzGVJF_tlaZ7-p9CSnFbLNay/view?usp=drive_link
 
